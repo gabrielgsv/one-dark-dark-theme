@@ -1,0 +1,22 @@
+{
+  "name": "one-dark-dark-theme",
+  "displayName": "One Dark Dark",
+  "description": "One Dark Pro but with dark background",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Dark-color-theme.json"
+      }
+    ]
+  }
+}
