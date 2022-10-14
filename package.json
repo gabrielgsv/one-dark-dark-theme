@@ -2,14 +2,17 @@
   "name": "one-dark-dark-theme",
   "displayName": "One Dark Dark",
   "description": "One Dark Pro but with dark background",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "./icon.png",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": "https://github.com/gabrielgsv/one-dark-dark-theme",
+  "publisher": "gabrielgsv",
   "contributes": {
     "themes": [
       {

@@ -2,7 +2,7 @@
 
 ## Working with Markdown
 
-<img src="./redmeImage.png"/>
+<img src="redmeImage.png"/>
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
