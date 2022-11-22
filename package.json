@@ -2,7 +2,7 @@
   "name": "one-dark-dark-theme",
   "displayName": "One Dark Dark",
   "description": "One Dark Pro but with dark background",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.72.0"
   },
